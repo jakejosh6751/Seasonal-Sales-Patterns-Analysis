@@ -5,3 +5,4 @@ Conducted analysis on retail sales data to uncover seasonal trends across variou
 
 ## Recommendations
 
+## Techniques & Procedures
