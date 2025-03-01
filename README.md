@@ -1,1 +1,1 @@
-# Seasonal-Sales-Patterns-Analysis
+# Seasonal Sales Patterns Analysis
