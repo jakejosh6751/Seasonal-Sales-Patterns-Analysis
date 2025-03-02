@@ -7,10 +7,10 @@ Conducted analysis on retail sales data to uncover seasonal trends across variou
 - The Southwest region contributes the highest sales volume across all seasons.
 
 Product categories with seasonality:
-•	Cosmetic & Skincare (Nov – Jan)
-•	Electronics (Nov – Dec)
-•	Furniture (Dec)
-•	School & Office Supplies (Sep)
+- Cosmetic & Skincare (Nov – Jan)
+- Electronics (Nov – Dec)
+- Furniture (Dec)
+- School & Office Supplies (Sep)
 
 
 ## Recommendations
