@@ -9,6 +9,4 @@ Conducted analysis on retail sales data to uncover seasonal trends across variou
 ## Recommendations
 These insights can help businesses adjust their stock and plan promotions ahead of peak periods.
 
-Actual values give an idea of how much stock to add or reduce.
-
 ## Techniques & Procedures
