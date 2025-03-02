@@ -6,6 +6,13 @@ Conducted analysis on retail sales data to uncover seasonal trends across variou
 - Electronics sell more in Q4, while Groceries perform better in Q2.
 - The Southwest region contributes the highest sales volume across all seasons.
 
+Product categories with seasonality:
+•	Cosmetic & Skincare (Nov – Jan)
+•	Electronics (Nov – Dec)
+•	Furniture (Dec)
+•	School & Office Supplies (Sep)
+
+
 ## Recommendations
 These insights can help businesses adjust their stock and plan promotions ahead of peak periods.
 
