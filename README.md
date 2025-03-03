@@ -8,7 +8,7 @@ Conducted analysis on retail sales data to uncover seasonal trends across variou
   * Electronics – November and December.
   * Furniture – December.
   * School & Office Supplies – September.
-- Frozen Food contributes the highest sales volume across all seasons.
+- Frozen Food contributes the highest sales volume across most seasons.
 
 ## Recommendations
 These insights can help businesses adjust their stock and plan promotions ahead of peak periods.
