@@ -4,11 +4,11 @@ Conducted analysis on retail sales data to uncover seasonal trends across variou
 ## Key Insights
 - Sales consistently peak during December, indicating a festive season boost.
 - Seasonal Product Categories:
-  * Cosmetic & Skincare sell more between November and January,
-  * Electronics between November and December,
-  * Furniture in December, while
-  * School & Office Supplies in September.
-- The Southwest region contributes the highest sales volume across all seasons.
+  * Cosmetic & Skincare – November to January.
+  * Electronics – November and December.
+  * Furniture – December.
+  * School & Office Supplies – September.
+- Frozen Food contributes the highest sales volume across all seasons.
 
 ## Recommendations
 These insights can help businesses adjust their stock and plan promotions ahead of peak periods.
