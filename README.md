@@ -10,10 +10,11 @@ Conducted analysis on retail sales data to uncover seasonal trends across variou
 - Frozen Food dominates most seasons.
 
 ## Recommendations to Boost Sales
-- Stock Cosmetic & Skincare, Electronics, and Furniture by October.
-- Offer Electronics discounts from November and Cosmetic & Skincare promos till January.
-- Keep Frozen Food supply steady year-round.
+- Stock Cosmetics, Electronics, and Furniture by October.
+- Offer Electronics discounts from November and Cosmetic promos till January.
+- Maintain steady Frozen Food supply year-round.
 - Launch back-to-school promotions in August.
-- Push Furniture + Electronics bundles in December.
+- Bundle Furniture + Electronics in December.
+
 
 ## Techniques & Procedures
