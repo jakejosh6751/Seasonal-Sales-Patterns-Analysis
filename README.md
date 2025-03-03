@@ -3,16 +3,11 @@ Conducted analysis on retail sales data to uncover seasonal trends across variou
 
 ## Key Insights
 - Sales consistently peak in December due to festive demand.
+- Cosmetic & Skincare sales rise from November to January.
 - Electronics spike in November and December.
 - Furniture peaks in December.
 - School & Office Supplies rise in September.
-- Frozen Food leads across most seasons
-#########
-Key Insights
-
-
-
-Cosmetic & Skincare sales rise from 
+- Frozen Food leads across most seasons 
 
 
 
