@@ -9,28 +9,11 @@ Conducted analysis on retail sales data to uncover seasonal trends across variou
 - School & Office Supplies rise in September.
 - Frozen Food leads across most seasons.
 
-
-
-
-## Recommendations
-These insights can help businesses adjust their stock and plan promotions ahead of peak periods.
-
-
-#########
-
-Recommendations
- 
- 
+## Recommendations to Boost Sales
 - Stock Cosmetic & Skincare, Electronics, and Furniture by October.
- 
 - Offer Electronics discounts from November and Cosmetic & Skincare promos till January.
- 
 - Keep Frozen Food supply steady year-round.
- 
 - Launch back-to-school deals in August.
- 
 - Push Furniture + Electronics bundles in December.
-
-
 
 ## Techniques & Procedures
