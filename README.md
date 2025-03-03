@@ -2,7 +2,7 @@
 Conducted analysis on retail sales data to uncover seasonal trends across various product categories, providing actionable insights to help businesses optimize inventory and marketing strategies.
 
 ## Key Insights
-![manufacturing downtime report.jpg](https://github.com/jakejosh6751/Manufacturing-Downtime-Analysis-/blob/main/manufacturing%20downtime%20report.jpg)
+![all categories.jpg](https://github.com/jakejosh6751/Seasonal-Sales-Patterns-Analysis/blob/main/all%20categories.jpg)
 
 - Sales consistently peak in December due to festive demand.
 - Cosmetic & Skincare sales rise from November to January.
