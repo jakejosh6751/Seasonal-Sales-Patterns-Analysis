@@ -13,7 +13,7 @@ Conducted analysis on retail sales data to uncover seasonal trends across variou
 - Stock Cosmetic & Skincare, Electronics, and Furniture by October.
 - Offer Electronics discounts from November and Cosmetic & Skincare promos till January.
 - Keep Frozen Food supply steady year-round.
-- Launch back-to-school deals in August.
+- Launch back-to-school promotions in August.
 - Push Furniture + Electronics bundles in December.
 
 ## Techniques & Procedures
