@@ -4,6 +4,8 @@ Conducted analysis on retail sales data to uncover seasonal trends across variou
 ## Key Insights
 ![all categories.jpg](https://github.com/jakejosh6751/Seasonal-Sales-Patterns-Analysis/blob/main/all%20categories.jpg)
 
+![cosmetics & skincare.jpg](https://github.com/jakejosh6751/Seasonal-Sales-Patterns-Analysis/blob/main/cosmetics%20%26%20skincare.jpg)
+
 - Sales consistently peak in December due to festive demand.
 - Cosmetic & Skincare sales rise from November to January.
 - Electronics spike in November and December.
