@@ -1,5 +1,5 @@
 # Seasonal Sales Patterns Analysis
-Conducted analysis on retail sales data to uncover seasonal trends across various product categories, providing actionable insights to help businesses optimize inventory and marketing strategies.
+Analyzed retail sales data to uncover seasonal trends across various product categories, providing actionable insights to help businesses optimize inventory and marketing strategies.
 
 ## Key Insights
 ![all categories.jpg](https://github.com/jakejosh6751/Seasonal-Sales-Patterns-Analysis/blob/main/all%20categories.jpg)
