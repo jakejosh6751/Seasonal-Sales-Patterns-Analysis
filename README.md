@@ -11,7 +11,7 @@ Analyzed retail sales data to uncover seasonal trends across various product cat
 - Electronics spike in November and December.
 - Furniture peaks in December.
 - School & Office Supplies rise in September.
-- Frozen Food dominates most seasons.
+- Frozen Food sales dominates most seasons.
 
 ## Recommendations to Boost Sales
 In order to optimize inventory and marketing strategies, here are my recommendations:
